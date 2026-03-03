@@ -35,7 +35,7 @@ background-color: #000
 The words I used on pexel.com are "Snowy Mountains" because I used to live in New Plymouth and see the snow filled Mt Taranaki everyday in winter and I just felt a little nostalgic.
 
 [My Pexel search](https://www.pexels.com/search/snowy%20mountains/)
-![Image of the first row](C:/Users/nagak/Documents/Stat220/Project 3/top_photos.png)
+![Image of the first row](C:/Users/nagak/Documents/Stat220/Project3/top_photos.png)
 
 
 Most of the photos are landscape probably because they are all high quality pictures taken from good camera equipment. 
